@@ -2,6 +2,7 @@
   "name": "test-site",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@craco/craco": "^7.0.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -21,7 +22,7 @@
     "build": "cross-env ANALYZE_BUNDLES=true GENERATE_SOURCEMAP=false craco build",
     "build-lib": "cross-env ANALYZE_BUNDLES=true BUILD_PATH=npm-lib GENERATE_SOURCEMAP=false craco build",
     "build-split": "cross-env ANALYZE_BUNDLES=true SPLIT_VENDOR=true BUILD_PATH=split-vendor GENERATE_SOURCEMAP=false craco build",
-    "publish-site": "echo www.fmrtechforum.tk > ./split-vendor/CNAME && gh-pages -d split-vendor",
+    "publish-site": "echo techforum.jiraassistant.com > ./split-vendor/CNAME && gh-pages -d split-vendor",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
