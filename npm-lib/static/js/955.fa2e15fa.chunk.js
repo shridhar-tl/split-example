@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktest_site=self.webpackChunktest_site||[]).push([[955],{955:function(e,r,n){n.r(r),n.d(r,{default:function(){return s}});var t=n(184);function s(){return(0,t.jsx)("header",{className:"App-header",children:(0,t.jsx)("a",{className:"App-link",href:"/",target:"_blank",rel:"noopener noreferrer",children:"Welcome to Common Profile page"})})}}}]);
-//# sourceMappingURL=955.fa2e15fa.chunk.js.map
