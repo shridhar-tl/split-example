@@ -1,8 +1,8 @@
 {
   "hash": "7b1fa16454f895b53901",
   "version": "5.75.0",
-  "time": 12242,
-  "builtAt": 1674546714570,
+  "time": 11913,
+  "builtAt": 1674547344033,
   "publicPath": "./",
   "outputPath": "/home/runner/work/split-example/split-example/split-vendor",
   "assetsByChunkName": {
@@ -2576,13 +2576,13 @@
               "issuerName": "./src/library/components/index.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -2635,13 +2635,13 @@
               "issuerName": "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -3150,13 +3150,13 @@
               "issuerName": "./src/library/components/index.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -3209,13 +3209,13 @@
               "issuerName": "./node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -4767,13 +4767,13 @@
               "issuerName": "./node_modules/@babel/runtime/helpers/esm/defineProperty.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -4836,13 +4836,13 @@
               "issuerName": "./node_modules/@babel/runtime/helpers/esm/toPropertyKey.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -4941,13 +4941,13 @@
           "issuerName": "./node_modules/@babel/runtime/helpers/esm/toPropertyKey.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -7426,13 +7426,13 @@
           "issuerName": "./node_modules/primereact/menubar/menubar.esm.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -7677,13 +7677,13 @@
           "issuerName": "./src/library/components/index.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -7829,13 +7829,13 @@
           "issuerName": "./node_modules/primereact/menubar/menubar.esm.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -8425,13 +8425,13 @@
               "issuerName": "./src/library/components/index.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -8486,13 +8486,13 @@
               "issuerName": "./node_modules/primereact/inputtext/inputtext.esm.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -8611,13 +8611,13 @@
           "issuerName": "./src/library/components/index.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -8764,13 +8764,13 @@
           "issuerName": "./src/library/components/index.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -8868,13 +8868,13 @@
           "issuerName": "./src/library/components/index.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -8972,13 +8972,13 @@
           "issuerName": "./node_modules/primereact/menubar/menubar.esm.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -9205,13 +9205,13 @@
               "issuerName": "./node_modules/primereact/inputtext/inputtext.esm.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -9271,13 +9271,13 @@
               "issuerName": "./node_modules/primereact/tooltip/tooltip.esm.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -9373,13 +9373,13 @@
           "issuerName": "./node_modules/primereact/menubar/menubar.esm.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -11232,13 +11232,13 @@
           "issuerName": "./node_modules/primereact/resources/primereact.min.css",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -11309,13 +11309,13 @@
           "issuerName": "./node_modules/primereact/resources/themes/lara-light-indigo/theme.css",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -11559,17 +11559,17 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "issuerName": "./src/admin/App.js",
+          "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "issuerName": "./src/employee/App.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             }
           ],
@@ -11973,17 +11973,17 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "issuerName": "./src/admin/App.js",
+              "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "issuerName": "./src/employee/App.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 }
               ],
@@ -12219,13 +12219,13 @@
               "issuerName": "./src/library/components/index.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -12944,17 +12944,17 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "issuerName": "./src/admin/App.js",
+          "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "issuerName": "./src/employee/App.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             }
           ],
@@ -21748,17 +21748,17 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "issuerName": "./src/admin/App.js",
+              "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "issuerName": "./src/employee/App.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 }
               ],
@@ -21994,13 +21994,13 @@
               "issuerName": "./src/library/components/index.js",
               "issuerPath": [
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-                  "name": "./src/admin/index.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+                  "name": "./src/index.js",
                   "id": null
                 },
                 {
-                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-                  "name": "./src/admin/App.js",
+                  "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+                  "name": "./src/employee/App.js",
                   "id": null
                 },
                 {
@@ -22935,17 +22935,17 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "issuerName": "./src/admin/App.js",
+          "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "issuerName": "./src/employee/App.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             }
           ],
@@ -23179,13 +23179,13 @@
           "issuerName": "./src/library/components/index.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -23510,17 +23510,17 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "issuerName": "./src/admin/App.js",
+          "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "issuerName": "./src/employee/App.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             }
           ],
@@ -23754,13 +23754,13 @@
           "issuerName": "./src/library/components/index.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -29868,17 +29868,17 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-      "issuerName": "./src/admin/App.js",
+      "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+      "issuerName": "./src/employee/App.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         }
       ],
@@ -32739,17 +32739,17 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-      "issuerName": "./src/admin/App.js",
+      "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+      "issuerName": "./src/employee/App.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         }
       ],
@@ -32852,17 +32852,17 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-      "issuerName": "./src/admin/App.js",
+      "issuer": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+      "issuerName": "./src/employee/App.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         }
       ],
@@ -33226,13 +33226,13 @@
       "issuerName": "./src/library/components/index.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -33507,13 +33507,13 @@
           "issuerName": "./src/library/components/index.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -33567,13 +33567,13 @@
           "issuerName": "./node_modules/primereact/inputtext/inputtext.esm.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -33691,13 +33691,13 @@
       "issuerName": "./src/library/components/index.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -33842,13 +33842,13 @@
       "issuerName": "./src/library/components/index.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -33945,13 +33945,13 @@
       "issuerName": "./src/library/components/index.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -34173,13 +34173,13 @@
           "issuerName": "./src/library/components/index.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -34231,13 +34231,13 @@
           "issuerName": "./node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -38596,13 +38596,13 @@
           "issuerName": "./src/library/components/index.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -38654,13 +38654,13 @@
           "issuerName": "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -39042,13 +39042,13 @@
       "issuerName": "./src/library/components/index.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -39396,13 +39396,13 @@
       "issuerName": "./node_modules/primereact/menubar/menubar.esm.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -39646,13 +39646,13 @@
       "issuerName": "./node_modules/primereact/menubar/menubar.esm.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -41225,13 +41225,13 @@
       "issuerName": "./node_modules/primereact/menubar/menubar.esm.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -41690,13 +41690,13 @@
       "issuerName": "./node_modules/primereact/menubar/menubar.esm.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -41818,13 +41818,13 @@
       "issuerName": "./node_modules/primereact/inputtext/inputtext.esm.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -42043,13 +42043,13 @@
           "issuerName": "./node_modules/primereact/inputtext/inputtext.esm.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -42108,13 +42108,13 @@
           "issuerName": "./node_modules/primereact/tooltip/tooltip.esm.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -42208,13 +42208,13 @@
       "issuerName": "./node_modules/primereact/resources/themes/lara-light-indigo/theme.css",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -42284,13 +42284,13 @@
       "issuerName": "./node_modules/primereact/resources/primereact.min.css",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -42361,13 +42361,13 @@
       "issuerName": "./node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -44266,13 +44266,13 @@
           "issuerName": "./node_modules/@babel/runtime/helpers/esm/defineProperty.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -44334,13 +44334,13 @@
           "issuerName": "./node_modules/@babel/runtime/helpers/esm/toPropertyKey.js",
           "issuerPath": [
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-              "name": "./src/admin/index.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+              "name": "./src/index.js",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-              "name": "./src/admin/App.js",
+              "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+              "name": "./src/employee/App.js",
               "id": null
             },
             {
@@ -44530,13 +44530,13 @@
       "issuerName": "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -45993,13 +45993,13 @@
       "issuerName": "./node_modules/primereact/tooltip/tooltip.esm.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -46261,13 +46261,13 @@
       "issuerName": "./node_modules/@babel/runtime/helpers/esm/toPropertyKey.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -46635,13 +46635,13 @@
       "issuerName": "./node_modules/@babel/runtime/helpers/esm/toPropertyKey.js",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -47172,13 +47172,13 @@
       "issuerName": "./node_modules/primereact/resources/primereact.min.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[5].use[2]!./node_modules/primereact/resources/primereact.min.css",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -47538,13 +47538,13 @@
       "issuerName": "./node_modules/primereact/resources/primereact.min.css",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -47617,13 +47617,13 @@
       "issuerName": "./node_modules/primereact/resources/themes/lara-light-indigo/theme.css",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -47982,13 +47982,13 @@
       "issuerName": "./node_modules/primereact/resources/primereact.min.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[5].use[2]!./node_modules/primereact/resources/primereact.min.css",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -48063,13 +48063,13 @@
       "issuerName": "./node_modules/primereact/resources/primereact.min.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[5].use[2]!./node_modules/primereact/resources/primereact.min.css",
       "issuerPath": [
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/index.js",
-          "name": "./src/admin/index.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/index.js",
+          "name": "./src/index.js",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/admin/App.js",
-          "name": "./src/admin/App.js",
+          "identifier": "/home/runner/work/split-example/split-example/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].oneOf[3]!/home/runner/work/split-example/split-example/src/employee/App.js",
+          "name": "./src/employee/App.js",
           "id": null
         },
         {
@@ -49999,8 +49999,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "7d494f64e74c7e77fb8c",
       "version": "5.75.0",
-      "time": 126,
-      "builtAt": 1674546702684,
+      "time": 123,
+      "builtAt": 1674547332514,
       "publicPath": "",
       "outputPath": "/home/runner/work/split-example/split-example/split-vendor",
       "assetsByChunkName": {},
