@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_site=self.webpackChunktest_site||[]).push([[765],{765:function(e,r,t){t.r(r),t.d(r,{default:function(){return a}});var n=t(417);function a(){return(0,n.jsx)("header",{className:"App-header",children:(0,n.jsx)("a",{className:"App-link",href:"/",target:"_blank",rel:"noopener noreferrer",children:"Welcome to Employee Tax Calculator"})})}}}]);

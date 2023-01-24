@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_site=self.webpackChunktest_site||[]).push([[792],{792:function(e,r,n){n.r(r),n.d(r,{default:function(){return a}});var t=n(417);function a(){return(0,t.jsx)("header",{className:"App-header",children:(0,t.jsx)("a",{className:"App-link",href:"/",target:"_blank",rel:"noopener noreferrer",children:"Welcome to Admin Salary Calculator"})})}}}]);
