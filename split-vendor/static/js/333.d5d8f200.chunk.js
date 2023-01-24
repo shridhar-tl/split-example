@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_site=self.webpackChunktest_site||[]).push([[333],{333:function(e,r,n){n.r(r),n.d(r,{default:function(){return t}});var s=n(417);function t(){return(0,s.jsx)("header",{className:"App-header",children:(0,s.jsx)("a",{className:"App-link",href:"/",target:"_blank",rel:"noopener noreferrer",children:"Welcome to Common Change Password page"})})}}}]);
