@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "cross-env ANALYZE_BUNDLES=true GENERATE_SOURCEMAP=false craco build",
-    "build-lib": "cross-env ANALYZE_BUNDLES=true BUILD_PATH=npm-lib GENERATE_SOURCEMAP=false craco build",
+    "build-lib": "cross-env ANALYZE_BUNDLES=true BUILD_PATH=npm-lib BUILD_LIBRARY=true GENERATE_SOURCEMAP=false craco build",
     "build-split": "cross-env ANALYZE_BUNDLES=true SPLIT_VENDOR=true BUILD_PATH=split-vendor GENERATE_SOURCEMAP=false craco build",
     "publish-site": "echo techforum.jiraassistant.com > ./split-vendor/CNAME && gh-pages -d split-vendor",
     "test": "react-scripts test",
